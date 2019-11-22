@@ -1,4 +1,4 @@
-#  fibonacci.py
+# fibonacci.py
 
 def fib():
     fibs = [1, 2]
